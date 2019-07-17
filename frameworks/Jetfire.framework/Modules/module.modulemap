@@ -1,0 +1,6 @@
+framework module Jetfire {
+  umbrella header "Jetfire.h"
+
+  export *
+  module * { export * }
+}
